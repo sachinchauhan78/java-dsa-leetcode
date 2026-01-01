@@ -27,5 +27,4 @@ Consistency > perfection 😄
 
 ---
 
-## 📂 Folder Structure
 
